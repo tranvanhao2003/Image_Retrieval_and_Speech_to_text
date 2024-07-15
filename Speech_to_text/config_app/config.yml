@@ -1,0 +1,16 @@
+server:
+  ip_address: "0.0.0.0"
+  port: 8001
+parameter:
+  # llm_api_keys: [
+  #   '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',
+  #   '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',
+  #   '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',
+  #   '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',
+  #   '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',
+  #   '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',
+  #   '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',
+  #   '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',
+  #   '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',
+  #   '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'
+  # ]
